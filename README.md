@@ -12,14 +12,13 @@ Install dependencies
 Execute the server
 ```yarn dev```
 
-
-Go into backend folder
+Go into frontend folder
 ```cd giphy-frontend```
 
 Install dependencies with yarn or one of your preference
 ```yarn install```
 
-Execute the server
+Execute the project
 ```yarn dev```
 
 Go to
