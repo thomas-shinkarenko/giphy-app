@@ -1,7 +1,9 @@
 Go into backend folder
 ```cd giphy-backend```
 
-Run docker compose up to exec and startup the container
+Run docker-compose to create and start up the container
+```cd giphy-backend/docker```
+Run
 ```docker-compose up -d```
 
 Install dependencies
